@@ -30,5 +30,9 @@ return {
     vim.keymap.set('n', '<C-s>', function()
       harpoon:list():select(4)
     end)
+
+    vim.keymap.set('n', '<leader>d', function()
+      harpoon:list():remove()
+    end)
   end,
 }
