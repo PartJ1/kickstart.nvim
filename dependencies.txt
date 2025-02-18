@@ -1,0 +1,1 @@
+zathura xclip ripgrep git make unzip gcc npm texlive_core zathura-pdf-mupdf python3 neovim texlive-core texlive-bin texlive-latexextra latexmk tree-sitter
